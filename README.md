@@ -1,2 +1,3 @@
-Main Video For Homepage Mainstream
-You need to upload videos here
+- Main Video For Homepage Mainstream
+- You need to upload videos here
+- max file size 25M
